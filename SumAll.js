@@ -23,3 +23,4 @@ console.log(sumOfArray);
 }
 
 sumAll([1, 4]);
+//39 min 27 sec
